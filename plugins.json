@@ -1,0 +1,154 @@
+[
+    {
+    "iconUrl": "https://midasxxi.com/wp-content/uploads/2024/01/cropped-favicon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+    "fileSize": 21789,
+    "status": 1,
+    "language": "id",
+    "authors": ["BetbetMiro"],
+    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "version": 1,
+    "internalName": "MidasXXi",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/MidasXXi.cs3",
+    "name": "MidasXXi"
+  },
+  {
+    "iconUrl": "https://eskipii.com/wp-content/uploads/2023/10/favicon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+    "fileSize": 21830,
+    "status": 1,
+    "language": "id",
+    "authors": ["BetbetMiro"],
+    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "version": 1,
+    "internalName": "Pusatmovie",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/Pusatmovie.cs3",
+    "name": "Pusatmovie"
+  },
+  {
+    "iconUrl": "https://savefilm21.info/favicon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+    "fileSize": 21860,
+    "status": 1,
+    "language": "id",
+    "authors": ["BetbetMiro"],
+    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "version": 1,
+    "internalName": "Savefilm",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/Savefilm.cs3",
+    "name": "Savefilm"
+  },
+  {
+    "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+    "fileSize": 74677,
+    "status": 1,
+    "language": "id",
+    "authors": ["BetbetMiro"],
+    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
+    "version": 1,
+    "internalName": "Moviebox",
+    "description": "📺 Moviebox - Netnaija - Sflix",
+    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/Moviebox.cs3",
+    "name": "Moviebox"
+  },
+  {
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/Ultima.cs3",
+        "status": 2,
+        "version": 34,
+        "name": "Ultima",
+        "internalName": "Ultima",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+        "fileSize": 354398,
+        "repositoryUrl": "https://github.om/sad25kag/BetbetMiro-Extension",
+        "language": "id",
+        "tvTypes": [
+            "All"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-c149907743918eb1f0765fc6c24689cc963cd7a989dd984cbead4e18320ef531"
+    },
+    {
+    "iconUrl": "https://sarangfilm.fit/wp-content/uploads/2023/09/cropped-popcorn-2.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+    "fileSize": 26060,
+    "status": 1,
+    "language": "id",
+    "authors": ["BetbetMiro"],
+    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "version": 1,
+    "internalName": "Sarangfilm",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/Sarangfilm.cs3",
+    "name": "Sarangfilm"
+  },
+  {
+    "iconUrl": "https://areajav.com/wp-content/uploads/2025/07/cropped-site-icon-04-purple.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+    "fileSize": 23307,
+    "status": 1,
+    "language": "id",
+    "authors": ["BetbetMiro"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Areajav",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/Areajav.cs3",
+    "name": "Areajav"
+  },
+    {
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/Javx.cs3",
+        "status": 3,
+        "version": 1,
+        "name": "Javx",
+        "internalName": "Javx",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "description": "",
+        "fileSize": 10179,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "language": "id",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2ef817d9f83596a097e75b5f728f6cad63877f9899ed1092b31012a0226bf2f5"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v1.samehadaku.how&size=%size%",
+        "fileHash": "sha256-dec343b37b48db94944adc412b47c2e79e1b715806b053249470a7e7ae33c381",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 149662,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "ProviderSamehadaku",
+        "description": "Samehadaku - Streaming Anime Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/ProviderSamehadaku.cs3",
+        "name": "Samehadaku"
+    }
+]
